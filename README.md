@@ -21,7 +21,7 @@ The rest of the parameters, as well as the complete project description, can be 
 
 As the Eigen library is already included in this project, there are no specific prerequisites to be installed. However, the Matlab part of the code will require installing Matlab or using the online Matlab editor to retrieve a graphical interface.
 
-After cloning this repository, the code can be run as follows in the `src/` folder:
+After cloning this repository, the code can be run as follows:
 ```
 g++ -o test main.cpp
 ./test n
